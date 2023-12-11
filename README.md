@@ -15,3 +15,6 @@ It contains 100,000 ratings applied to 9,000 movies by 700 users.
 Ratings scores are given between 0.5 and 5.
 
 (1) https://grouplens.org/datasets/movielens/
+
+
+A detailed presentation of the project can be found in the PMF_report.pdf file.
